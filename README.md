@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Passionate about programming and problem solving<br><br>🧠 Strong interest in Data Structures & Algorithms<br><br>🚀 Regularly practice coding in C++ and Python<br><br>📚 Focused on building strong fundamentals in Computer Science<br><br>🌱 Continuously learning and exploring new technologies<br><br>🎯 Aiming to build impactful projects and grow as a software developer
+💻 I'm currently a Software Engineer Student<br><br>🧠 Strong interest in Data Structures & Algorithms<br><br>🚀 Regularly practice coding in C++ and Python<br><br>📚 Focused on building strong fundamentals in Computer Science<br><br>🌱 Continuously learning and exploring new technologies<br><br>🎯 Aiming to build impactful projects and grow as a software developer
 
 
 ## 🌐 Socials:
